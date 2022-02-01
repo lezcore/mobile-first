@@ -1,2 +1,3 @@
 # mobile-first
-Responsive web page
+Project Batatabit
+Visit the Responsive website here : https://lezcore.github.io/mobile-first/
